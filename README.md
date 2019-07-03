@@ -1,5 +1,6 @@
 # 快购阅读-前端
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/WhiteRobe/Qbook_server/blob/master/LICENSE)
+![](https://img.shields.io/github/repo-size/WhiteRobe/Qbook-web.svg)
 
 快购阅读是一个基于Vue和Node.js现代前端框架的SPA项目。此为其前端SPA的Web界面。
 
