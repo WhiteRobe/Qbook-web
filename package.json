@@ -4,7 +4,7 @@
   "description": "Web-Demo",
   "main": "./src/index.js",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "css-loader": "^1.0.1",
